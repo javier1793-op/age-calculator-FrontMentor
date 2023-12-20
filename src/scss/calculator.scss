@@ -1,0 +1,18 @@
+.contentCalculator{
+    width: 50vw;
+    height: 70vh;
+    background: var(--White);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 1.5rem;
+    border-radius: 20px 20px 6rem 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+@media  (max-width:1000px){
+    .contentCalculator{
+        width: 95vw;
+        height: auto;
+    }   
+}

@@ -1,0 +1,24 @@
+.contentAge{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.contentAge span{
+    font-size: 1.7rem;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+.age{
+    color: var(--Purple);
+    letter-spacing: 5px;
+    font-style: italic;
+    font-weight: 800;
+}
+.title{
+    font-weight: 800;
+    font-style: italic;
+}
