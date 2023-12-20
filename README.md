@@ -1,8 +1,26 @@
-# React + Vite
+# Frontend Mentor - Age calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Screenshot
 
-Currently, two official plugins are available:
+![Message page design](./src/img/Screenshot%202023-12-20%20at%2014-01-55%20Age%20calculator%20FrontMentor.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### Links
+
+- Solution URL: [GIT](https://github.com/javier1793-op/age-calculator-FrontMentor)
+- Live Site URL: [PAGE](https://javier1793-op.github.io/age-calculator-FrontMentor/)
+
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- React
+
+
+## Author
+
+
+- Frontend Mentor - [@javier1793-op](https://www.frontendmentor.io/profile/javier1793-op)
